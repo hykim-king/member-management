@@ -1,3 +1,4 @@
+package com.company.member;
 
 public class Main {
 
